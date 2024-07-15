@@ -1,0 +1,5 @@
+2024-06-13T17:54:27.947+0800	INFO	config/config.go:40	配置文件已经自动生成'conf/conf.ini',将再次读取配置
+2024-06-13T17:54:27.987+0800	INFO	config/config.go:45	尝试读取配置文件'conf/conf.ini',二次读取配置文件成功
+2024-06-13T17:54:27.988+0800	INFO	lang/lang.go:20	输出语言文件: lang/zh-cn.ini
+2024-06-13T17:54:28.100+0800	INFO	router/A_ENTER.go:38	Sun-Panel is Started.  Listening and serving HTTP on :3002
+2024-06-15T06:06:26.123+0800	INFO	router/A_ENTER.go:38	Sun-Panel is Started.  Listening and serving HTTP on :3002
